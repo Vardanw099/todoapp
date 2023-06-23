@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vardanw099/Vardanw099.github.io/todoapp/static/css/main.01792588.css",
+    "main.js": "/Vardanw099/Vardanw099.github.io/todoapp/static/js/main.5b50160a.js",
+    "static/js/787.b8fa26a9.chunk.js": "/Vardanw099/Vardanw099.github.io/todoapp/static/js/787.b8fa26a9.chunk.js",
+    "static/media/fav.png": "/Vardanw099/Vardanw099.github.io/todoapp/static/media/fav.8a6fc0a24a800d1e0f4a.png",
+    "static/media/recycle.svg": "/Vardanw099/Vardanw099.github.io/todoapp/static/media/recycle.a83ef6aacff0055903ed10e6a9ab7c3a.svg",
+    "index.html": "/Vardanw099/Vardanw099.github.io/todoapp/index.html",
+    "main.01792588.css.map": "/Vardanw099/Vardanw099.github.io/todoapp/static/css/main.01792588.css.map",
+    "main.5b50160a.js.map": "/Vardanw099/Vardanw099.github.io/todoapp/static/js/main.5b50160a.js.map",
+    "787.b8fa26a9.chunk.js.map": "/Vardanw099/Vardanw099.github.io/todoapp/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01792588.css",
+    "static/js/main.5b50160a.js"
+  ]
+}
