@@ -189,7 +189,7 @@ class Todo extends Component {
                           width: "28px",
                           height: "28px",
                           position: "absolute",
-                          right: "20px",
+                          right: "10px",
                           display: "inline-flex",
                           justifyContent: "center",
                           alignItems: "center",
